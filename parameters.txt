@@ -1,0 +1,2 @@
+Location	-180,-90,180,-25
+Location_name	WorldPart1
